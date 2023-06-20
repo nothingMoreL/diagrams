@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T01:49:08.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="Cyp3BEWJhZZpXP8qlTIm" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T06:04:32.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.0.0" etag="ZOPDtz3iPfJMtQYCjXt-" version="21.5.0" type="github">
   <diagram name="第 1 页" id="HO3lmRkRKWCFBTXCrBwL">
     <mxGraphModel dx="1426" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,9 +54,6 @@
         </mxCell>
         <mxCell id="_IaMpmnRbteA5YC0Zuai-1" value="k8s集群负载均衡及开发微服务测试并发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="310" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_IaMpmnRbteA5YC0Zuai-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_IaMpmnRbteA5YC0Zuai-1" target="_IaMpmnRbteA5YC0Zuai-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
